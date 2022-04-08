@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FRAKTEON 👀�💞️ 
+- 👋 Hi, I’m @FRAKTEON 😎💞️ 
 
 <!---
 FRAKTEON/FRAKTEON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
